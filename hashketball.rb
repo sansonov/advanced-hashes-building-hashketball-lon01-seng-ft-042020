@@ -1,3 +1,4 @@
+#fdp! Eu tinha colocado td em string e o teste pedia em int!!!
 def game_hash
   hash = {
       :home => {
